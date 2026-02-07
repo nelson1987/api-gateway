@@ -1,0 +1,19 @@
+# API Gateway Endpoints
+
+## Root Endpoint
+```
+GET /
+```
+
+## Health Check Endpoint
+```
+GET /health
+```
+
+## Related Gateway Endpoints
+```
+GET /api/resource
+POST /api/resource
+PUT /api/resource/{id}
+DELETE /api/resource/{id}
+```
